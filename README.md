@@ -12,4 +12,4 @@ python books_scraper.py
 
 
 ## 🎥 Demo
-[![Watch the demo](https://www.youtube.com/watch?v=cskb73iJlo4)
+[![Watch the demo](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=cskb73iJlo4)

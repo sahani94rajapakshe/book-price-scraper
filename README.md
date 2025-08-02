@@ -9,3 +9,7 @@ git clone https://github.com/sahani94rajapakshe/book-price-scraper.git
 cd book-price-scraper
 pip install -r requirements.txt
 python books_scraper.py
+
+
+## 🎥 Demo
+[![Watch the demo](https://www.youtube.com/watch?v=cskb73iJlo4)
